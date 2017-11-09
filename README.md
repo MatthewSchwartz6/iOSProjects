@@ -1,2 +1,2 @@
 # iOSProjects
-A collection of iOS apps used to learn to develop for the platform. 
+A collection of iOS apps made in order to learn development for the platform.  
